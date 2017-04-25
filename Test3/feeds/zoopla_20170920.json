@@ -1,0 +1,16 @@
+{
+  "viewings":[
+    {
+      "name": "Homer Simpson",
+      "email": "homer@powerleaks.com",
+      "address": "Evergreen terrace, Springfield",
+      "viewingTime": "2017-10-01T10:30:00 - 2017-10-01T11:30:00"
+    },
+    {
+      "name": "Tony Stark",
+      "email": "tony@ironsuits.com",
+      "address": "10880 Malibu Point, Malibu, California",
+      "viewingTime": "2017-10-11T23:30:00 - 2017-10-11T24:00:00"
+    }
+  ]
+}
