@@ -1,4 +1,4 @@
-# Test 3: Data processing
+# Test 3: Software architecture
 We receive enquiries from several sources.
 
 Each source provide its enquiries to us in a different formats.
