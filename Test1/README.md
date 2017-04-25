@@ -1,4 +1,4 @@
-# Test 1: Property visits grouping
+# Test 1: Grouping data
 Implement a gropuByProperty function that:
 
 * Accepts an associative array containing the address for each property
